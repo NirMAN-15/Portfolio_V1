@@ -6,7 +6,7 @@ Built with React, Vite, and Vanilla CSS.
 
 ## Live Site
 
-[https://nirman-15.github.io/Portfolio/](https://nirman-15.github.io/Portfolio/)
+[https://nirman-15.github.io/Portfolio_V1/](https://nirman-15.github.io/Portfolio_V1/)
 
 ## Tech Stack
 
