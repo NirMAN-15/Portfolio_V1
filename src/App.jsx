@@ -69,7 +69,7 @@ const projectsData = [
       'Google Login OAuth integrations and Firebase Phone SMS OTP verification.',
       'Production deployment presenting responsive layout structures.'
     ],
-    github: '',
+    github: 'https://github.com/NirMAN-15/career-suggestion-system.git',
     deployed: 'https://careerpath.fwh.is'
   },
   {
