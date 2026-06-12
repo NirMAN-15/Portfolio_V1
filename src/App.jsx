@@ -54,13 +54,13 @@ const projectsData = [
     id: 'careerpath',
     title: 'CareerPath Suggestion Platform',
     tag: 'Web Application',
-    shortDesc: 'An AI-free MERN suggestion system directing students into technology careers through structured assessments, visual skill matrix scoring, and detailed roadmaps.',
+    shortDesc: 'An AI-free PHP-based suggestion system directing students into technology careers through structured assessments, visual skill matrix scoring, and detailed roadmaps.',
     description: 'CareerPath provides transparent career routing by assessing user responses against technology skills rather than black-box algorithms. It charts courses, lists certifications, recommends free study guides, and tracks tech sector market indices.',
     techStack: {
-      frontend: ['React.js (Vite)', 'Vanilla CSS3', 'HTML5', 'React Router'],
-      backend: ['Node.js', 'Express.js', 'JSON Web Tokens (JWT)'],
-      database: ['MongoDB (Mongoose)', 'Local Storage Cache'],
-      infrastructure: ['Render Cloud', 'Google OAuth APIs', 'Firebase Phone OTP']
+      frontend: ['HTML5', 'CSS3', 'JavaScript', 'Bootstrap'],
+      backend: ['PHP'],
+      database: ['MySQL', 'Local Storage Cache'],
+      infrastructure: ['Apache Server', 'Google OAuth APIs', 'Firebase Phone OTP']
     },
     features: [
       'Interactive questionnaires mapping skill indicators.',
